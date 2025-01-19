@@ -5,8 +5,13 @@
 # Example : input("Write down anything :") 
 
 
-input = input('write a variable :')
+typevar = input('write a variable :')
 
-print ("Your variable is :",input)
+print ("Your variable is :", typevar)
 
-print ("variable's Type :",type(input))
+print("\t")
+
+inname = input('Write your name :')
+
+print ("\nSlam Alaikum !", inname )
+

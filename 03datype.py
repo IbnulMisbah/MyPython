@@ -1,4 +1,4 @@
-# in this program we will learn how to see Types of Data (:Variables, Constants) ,
+# In this program we will learn how to see Types of Data (:Variables, Constants) ,
 # which called datatype .
 # Python is a 'case sensitive' language.it finds differance in small and big letter .
 
@@ -23,3 +23,7 @@ print ("print (type(True))",type(True))
 print ("print (type(False))",type(False))
 
 print (type("Assalamu Alikum"))
+
+print("type(7 > 12) : ", type (7 > 12))
+
+print("type(7 < 12) : ", type (7 < 12))

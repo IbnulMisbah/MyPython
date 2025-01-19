@@ -5,6 +5,12 @@
 
 print ("\nBismillahir Rahmanir Rahim")
 
+print("\t")
+
 print ('Assalamu Alaikum')
 
+print("\t")
+
 print ("বিসমিল্লাহির রাহমানির রাহীম\n")
+
+print ("Hello Termux Developer!")

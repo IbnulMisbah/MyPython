@@ -1,5 +1,5 @@
 # Now , i will learn Condition in python .
-# Three Codition will be learned by me : if , elif (else if) , else .
+# Three Condition will be learned by me : if , elif (else if) , else .
 # Here if & elif is condition , else is solution .
 # In this program i will use Boolean operator : Equal-Equal(==) operator.
 # In condition's statement ,we have to follow indentation (Tab or 4 spaces).
