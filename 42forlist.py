@@ -15,7 +15,7 @@ mylove = [
         ]
 
 print("It will print the word number of my list :" , len(mylove))  
-# It will show lenth of list .
+# It will show length of list .
 
 print(mylove)
 
